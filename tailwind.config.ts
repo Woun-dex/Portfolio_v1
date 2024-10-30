@@ -9,8 +9,7 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+        'gradient-bg' : 'linear-gradient(0deg, #032823 0%, #000000 100%)',
       },
     },
   },
