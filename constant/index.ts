@@ -42,3 +42,28 @@ export const tags : string[] = [
     "C++", 
     "PHP"
 ];
+
+export const tags2 : string[] = [
+  "React.js",
+  "Next.js",
+  "Node.js",
+  "Tailwind css" ,
+  "Bootsrtap",
+  "React Native", 
+  "Django",
+  "Three.js",
+  "Framer Motion"
+  
+];
+export const tags3 : string[] = [
+  "MySQL",
+  "Github",
+  "Git",
+  "PostreSQL" ,
+  "Docker",
+  "Figma", 
+  "MongoDB",
+  "mongoose",
+  "NoSQL"
+];
+
